@@ -2,7 +2,7 @@
 Username : @suryansh-2007 | **University:** VIT BHOPAL UNIVERSITY
 Registration No. : 25BCE10371
 
-###Academic details:
+### Academic details:
 * **Degree:** Bachelor of Technology[2025-2029]
 * **Branch:** Computer Science & Engineering
 * **Academic Year:** 2025-2026 
