@@ -1,16 +1,15 @@
-## Hi there 👋
+# Suryansh
+Username : @suryansh-2007 | **University:** VIT BHOPAL UNIVERSITY
+Registration No. : 25BCE10371
 
-<!--
-**suryansh-2007/suryansh-2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###Academic details:
+* **Degree:** Bachelor of Technology[2025-2029]
+* **Branch:** Computer Science & Engineering
+* **Academic Year:** 2025-2026 
+* **Current Focus:** CPP Language
 
-Here are some ideas to get you started:
+### Learning Goal
+This year, I hope to master Data Structures and Algorithms to build projects that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+*Generated for Digital Literacy @ VIT BHOPAL UNIVERSITY*
